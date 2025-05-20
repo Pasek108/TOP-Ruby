@@ -42,8 +42,9 @@ Check out [live version](https://pasek108.github.io/TOP-Foundations/) with my as
 ## What I Learned  
 > [!NOTE]  
 > I have been familiar with most of the course content for a long time through personal experience, technical school, and university.
--->
+
 - Installing and using Linux (I chose Xubuntu)  
 - Using the CLI  
 - The importance of testing  
 - Debugging with developer tools  
+-->
